@@ -67,15 +67,16 @@ However, when you communicate with a remote host (e.g., a server on the Internet
 This lab reinforced the critical roles of both IP addresses (for logical addressing across networks) and MAC addresses (for physical addressing on a local segment), and how they interact to facilitate communication, whether local or global. It truly brought the abstract concepts of networking to life by showing the packets in action.
 
 ---
-## Author
-
-**Philiphine Cheptanui**
+**Philiphine Cheptanui | Information Scientist, BSc | Computer Network | Cybersecurity | WordPress | Data Entry | Research | Writer.**
 
 
 ---
-**Connect with Me:** &emsp;&emsp;
-[LinkedIn](http://linkedin.com/in/philiphinecheptanui) &emsp;&emsp;
-[PortFolio Website](https://compnetworksecurity.blogspot.com/) &emsp;&emsp;
-[Repository](https://github.com/philiphineck/Use-Wireshark-to-View-Network-Traffic) &emsp;&emsp;
-[Email](koimaphilipine@gmail.com) &emsp;&emsp;
+
+## 🌐 Connect with me:
+
+ [LinkedIn](https://linkedin.com/in/philiphinecheptanui) &emsp;&emsp;
+ [Email](koimaphilipine@gmail.com) &emsp;&emsp;
+ [PortFolio Blog](https://compnetworksecurity.blogspot.com/) &emsp;&emsp;
+ [Repository](https://github.com/philiphineck/Use-Wireshark-to-View-Network-Traffic) 
+
 ---
