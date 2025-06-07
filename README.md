@@ -1,4 +1,4 @@
-# Wireshark Activity: # Unmasking Network Traffic with a Packet Sniffer
+# Wireshark Activity: Unmasking Network Traffic with a Packet Sniffer
 
 ## Project Overview
 
